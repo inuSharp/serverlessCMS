@@ -36,6 +36,7 @@ deactivate
 
 ```
 pip install flask zappa
+pip install flask-cors
 ```
 
 ## デプロイ
