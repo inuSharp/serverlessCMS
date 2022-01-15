@@ -1,0 +1,5 @@
+setting = {
+    'DEBUG': True,
+    'IS_LAMBDA': False,
+}
+
